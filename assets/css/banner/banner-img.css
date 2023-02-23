@@ -1,0 +1,7 @@
+.banner__img {
+
+    background: url('../../img/banner.svg')no-repeat center / cover;
+
+    height: 100vh;
+    width: 100vw;
+}

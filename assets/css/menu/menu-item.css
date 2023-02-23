@@ -1,0 +1,11 @@
+.menu__item {
+
+    list-style: none;
+    color: var(--branco);
+
+}
+
+.menu__item:hover {
+
+    text-decoration: underline;
+}

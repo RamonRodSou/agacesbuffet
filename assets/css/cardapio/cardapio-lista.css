@@ -1,0 +1,8 @@
+.cardapio__lista {
+
+    display: flex;
+    justify-content: space-around;
+    gap: 3.5rem;
+    margin: 3rem 0;
+    width: 500%;
+}

@@ -1,0 +1,8 @@
+.apresentacao {
+
+    color: var(--branco);
+    position: absolute;
+    left: 15%;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    top: 40%;
+}

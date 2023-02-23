@@ -1,0 +1,19 @@
+.botao__voltar, .botao__passar {
+
+    background-color: var(--botao-op);
+    border-radius: 10rem;
+    border: var(--branco);
+    color: #efefef;
+    cursor: pointer;
+    font-size: larger;
+    height: 3rem;
+    width: 3rem;
+    margin: 0 1rem;
+    transition: 600ms;
+}
+
+.botao__voltar:hover, .botao__passar:hover {
+
+    background-color: var(--botao);
+
+}

@@ -1,0 +1,16 @@
+.cardapio__item {
+    
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-shrink: 0;
+    height: 800px;
+    opacity: 0.4;
+    transition: all 600ms ease-in-out;
+}
+
+.item {
+    
+    opacity: 1;
+}

@@ -1,0 +1,8 @@
+.cardapio__titulo{
+
+    color: var(--titulo);
+    font-size: 3rem;
+    margin: 2rem;
+    text-shadow: 0 4px 4px var(--sombra);
+
+}

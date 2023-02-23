@@ -1,0 +1,11 @@
+.cardapio__descricao {
+
+    display: none;
+}
+
+.cardapio__item:hover .cardapio__descricao {
+
+    background-color: #ffffff68;
+    display: inline-block;
+} 
+

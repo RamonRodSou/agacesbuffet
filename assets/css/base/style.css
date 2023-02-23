@@ -1,0 +1,15 @@
+body {
+
+}
+
+h2,h3 {
+
+    font-family: var(--pacifico);
+
+}
+
+a, p {
+
+    font-family: var(--roboto);
+    color: var(--branco);
+}

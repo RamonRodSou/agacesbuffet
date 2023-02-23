@@ -1,0 +1,7 @@
+.menu__link {
+
+    text-decoration: none;
+    color: var(--branco);
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+
+}
